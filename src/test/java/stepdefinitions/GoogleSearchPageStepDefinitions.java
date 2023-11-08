@@ -7,7 +7,6 @@ import io.cucumber.java.de.Und;
 import io.cucumber.java.de.Wenn;
 import io.cucumber.junit.Cucumber;
 import org.junit.After;
-import org.junit.Before;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
 import pages.GoogleSearchPage;
@@ -19,7 +18,7 @@ import java.time.Duration;
 import static org.junit.Assert.assertEquals;
 
 @RunWith(Cucumber.class)
-public class TestGoogleSearchPageStepDefinitions {
+public class GoogleSearchPageStepDefinitions {
 
 
     WebDriver driver;
