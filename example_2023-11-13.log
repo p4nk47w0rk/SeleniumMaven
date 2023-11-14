@@ -1,0 +1,93 @@
+[[32mINFO [m] 2023-11-13 10:56:35,018 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: chrome
+[[32mINFO [m] 2023-11-13 10:56:35,824 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-13 10:56:36,493 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-13 10:56:36,547 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: a
+[[32mINFO [m] 2023-11-13 10:56:36,600 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-13 10:56:38,574 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-13 10:56:39,155 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: A – Wikipedia
+[[32mINFO [m] 2023-11-13 10:56:39,360 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-13 10:56:39,443 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: chrome
+[[32mINFO [m] 2023-11-13 10:56:39,822 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-13 10:56:40,433 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-13 10:56:40,486 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: b
+[[32mINFO [m] 2023-11-13 10:56:40,537 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-13 10:56:41,834 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-13 10:56:45,469 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: Aktuelle Nachrichten | BILD.de
+[[32mINFO [m] 2023-11-13 10:56:45,633 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-13 10:56:45,717 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: firefox
+[[32mINFO [m] 2023-11-13 10:56:46,793 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-13 10:56:47,664 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-13 10:56:47,907 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: a
+[[32mINFO [m] 2023-11-13 10:56:47,937 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-13 10:56:47,968 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-13 10:56:48,889 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: A – Wikipedia
+[[32mINFO [m] 2023-11-13 10:56:49,024 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-13 10:56:49,552 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: firefox
+[[32mINFO [m] 2023-11-13 10:56:50,528 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-13 10:56:51,351 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-13 10:56:51,595 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: b
+[[32mINFO [m] 2023-11-13 10:56:51,621 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-13 10:56:51,651 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-13 10:56:55,863 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: Aktuelle Nachrichten | BILD.de
+[[32mINFO [m] 2023-11-13 10:56:56,101 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-13 13:12:07,569 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: chrome
+[[32mINFO [m] 2023-11-13 13:12:08,464 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-13 13:12:09,139 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-13 13:12:09,233 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: a
+[[32mINFO [m] 2023-11-13 13:12:09,296 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-13 13:12:10,585 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-13 13:12:11,125 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: A – Wikipedia
+[[32mINFO [m] 2023-11-13 13:12:11,389 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-13 13:12:11,521 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: chrome
+[[32mINFO [m] 2023-11-13 13:12:11,904 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-13 13:12:12,580 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-13 13:12:12,643 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: b
+[[32mINFO [m] 2023-11-13 13:12:12,700 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-13 13:12:13,926 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-13 13:12:24,274 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: firefox
+[[32mINFO [m] 2023-11-13 13:12:25,494 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-13 13:12:26,347 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-13 13:12:26,611 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: a
+[[32mINFO [m] 2023-11-13 13:12:26,639 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-13 13:12:26,671 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-13 13:12:27,520 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: A – Wikipedia
+[[32mINFO [m] 2023-11-13 13:12:27,693 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-13 13:12:28,244 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: firefox
+[[32mINFO [m] 2023-11-13 13:12:29,359 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-13 13:12:30,165 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-13 13:12:30,411 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: b
+[[32mINFO [m] 2023-11-13 13:12:30,438 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-13 13:12:30,469 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-13 13:12:31,568 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: Aktuelle Nachrichten | BILD.de
+[[32mINFO [m] 2023-11-13 13:12:56,838 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: chrome
+[[32mINFO [m] 2023-11-13 13:14:29,408 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: chrome
+[[32mINFO [m] 2023-11-13 13:14:30,651 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-13 13:14:31,339 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-13 13:14:31,412 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: a
+[[32mINFO [m] 2023-11-13 13:14:31,491 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-13 13:14:32,655 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-13 13:14:33,553 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: A – Wikipedia
+[[32mINFO [m] 2023-11-13 13:14:33,745 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-13 13:14:33,857 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: chrome
+[[32mINFO [m] 2023-11-13 13:14:34,279 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-13 13:14:34,945 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-13 13:14:35,004 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: b
+[[32mINFO [m] 2023-11-13 13:14:35,067 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-13 13:14:36,245 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-13 13:14:40,329 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: Aktuelle Nachrichten | BILD.de
+[[32mINFO [m] 2023-11-13 13:14:40,488 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-13 13:14:40,584 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: firefox
+[[32mINFO [m] 2023-11-13 13:14:41,951 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-13 13:14:42,814 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-13 13:14:43,062 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: a
+[[32mINFO [m] 2023-11-13 13:14:43,102 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-13 13:14:43,140 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-13 13:14:44,009 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: A – Wikipedia
+[[32mINFO [m] 2023-11-13 13:14:44,176 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-13 13:14:44,724 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: firefox
+[[32mINFO [m] 2023-11-13 13:14:46,068 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-13 13:14:46,839 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-13 13:14:47,085 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: b
+[[32mINFO [m] 2023-11-13 13:14:47,123 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-13 13:14:47,170 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-13 13:14:48,058 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: Aktuelle Nachrichten | BILD.de
