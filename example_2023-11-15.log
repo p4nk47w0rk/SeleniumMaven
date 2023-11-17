@@ -24,3 +24,13 @@
 [[32mINFO [m] 2023-11-15 10:21:46,705 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
 [[32mINFO [m] 2023-11-15 10:21:46,741 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
 [[32mINFO [m] 2023-11-15 10:21:47,712 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: A – Wikipedia
+[[32mINFO [m] 2023-11-15 10:21:47,882 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-15 10:21:48,428 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: firefox
+[[33mWARN [m] 2023-11-15 10:21:49,455 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - #################################:firefox
+[[32mINFO [m] 2023-11-15 10:21:49,455 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-15 10:21:49,993 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-15 10:21:50,233 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: b
+[[32mINFO [m] 2023-11-15 10:21:50,260 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-15 10:21:50,288 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-15 10:21:54,204 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: Aktuelle Nachrichten | BILD.de
+[[32mINFO [m] 2023-11-15 10:21:54,401 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen

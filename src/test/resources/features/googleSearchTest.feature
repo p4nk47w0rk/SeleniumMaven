@@ -12,9 +12,18 @@
      Beispiele:
        | browser  | url | suchbegriff | titelwunsch |
        | "chrome" | "https://www.google.de"     | "a"     | "A – Wikipedia" |
-       | "chrome"| "https://www.google.de"     | "b"     | "Aktuelle Nachrichten \| BILD.de" |
+       | "chrome" | "https://www.google.de"     | "a"     | "A – Wikipedia" |
+       | "chrome" | "https://www.google.de"     | "a"     | "A – Wikipedia" |
+       | "chrome" | "https://www.google.de"     | "a"     | "A – Wikipedia" |
+       | "chrome" | "https://www.google.de"     | "a"     | "A – Wikipedia" |
+       | "chrome" | "https://www.google.de"     | "a"     | "A – Wikipedia" |
        | "firefox" | "https://www.google.de"     | "a"     | "A – Wikipedia" |
-       | "firefox"| "https://www.google.de"     | "b"     | "Aktuelle Nachrichten \| BILD.de" |
+       | "firefox" | "https://www.google.de"     | "a"     | "A – Wikipedia" |
+       | "firefox" | "https://www.google.de"     | "a"     | "A – Wikipedia" |
+       | "firefox" | "https://www.google.de"     | "a"     | "A – Wikipedia" |
+       | "firefox" | "https://www.google.de"     | "a"     | "A – Wikipedia" |
+       | "firefox" | "https://www.google.de"     | "a"     | "A – Wikipedia" |
+
 
 
 

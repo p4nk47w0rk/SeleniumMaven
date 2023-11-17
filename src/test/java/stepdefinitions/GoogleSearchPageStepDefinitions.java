@@ -1,6 +1,6 @@
 package stepdefinitions;
 
-import configuration.DriverHelper;;
+import configuration.DriverHelper;
 import io.cucumber.java.de.Angenommen;
 import io.cucumber.java.de.Dann;
 import io.cucumber.java.de.Und;
@@ -31,12 +31,14 @@ public class GoogleSearchPageStepDefinitions {
 
     WebDriver driver;
     GoogleSearchPage googleSearchPage;
+    private String browserName;
 
     private static final Logger logger = LogManager.getLogger(GoogleSearchPageStepDefinitions.class.getName());
 
 
     @Angenommen("der Nutzer öffnet den {string}")
     public void derNutzerÖffnetDen(String browser) throws MalformedURLException {
+        this.browserName = browser;
         logger.info("Nutzer öffnet den Browser: " + browser);
         driver = DriverHelper.getDriver(browser);
         // maximize the window
@@ -47,6 +49,7 @@ public class GoogleSearchPageStepDefinitions {
 
     @Und("der Benutzer befindet sich auf {string}")
     public void derBenutzerBefindetSichAuf(String websiteURL){
+        logger.warn("#################################:" + browserName);
         logger.info("Benutzer befindet sich auf: " + websiteURL);
         driver.get(websiteURL);
         googleSearchPage =  new GoogleSearchPage(driver);

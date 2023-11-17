@@ -79,6 +79,16 @@ public class TestGoogleSearchPage {
         Collection<Object[]> collection;
         Object[][] data = {
                 {"Paramtrisierter Test 1", "firefox" , "A – Wikipedia" , "a"},
+                {"Paramtrisierter Test 1", "firefox" , "A – Wikipedia" , "a"},
+                {"Paramtrisierter Test 1", "firefox" , "A – Wikipedia" , "a"},
+                {"Paramtrisierter Test 1", "firefox" , "A – Wikipedia" , "a"},
+                {"Paramtrisierter Test 1", "firefox" , "A – Wikipedia" , "a"},
+                {"Paramtrisierter Test 1", "firefox" , "A – Wikipedia" , "a"},
+                {"Paramtrisierter Test 2", "chrome", "A – Wikipedia" , "a"},
+                {"Paramtrisierter Test 2", "chrome", "A – Wikipedia" , "a"},
+                {"Paramtrisierter Test 2", "chrome", "A – Wikipedia" , "a"},
+                {"Paramtrisierter Test 2", "chrome", "A – Wikipedia" , "a"},
+                {"Paramtrisierter Test 2", "chrome", "A – Wikipedia" , "a"},
                 {"Paramtrisierter Test 2", "chrome", "A – Wikipedia" , "a"}
         };
         List<Object[]> listObjects = Arrays.asList(data);

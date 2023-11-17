@@ -2,6 +2,7 @@ package configuration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import java.net.MalformedURLException;
@@ -24,6 +25,17 @@ public enum AvailableBrowser {
             //System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/drivers/chromedriver");
 
             ChromeOptions options = new ChromeOptions();
+            URL linkHub = new URL("http://localhost:4444/wd/hub");
+
+            return new RemoteWebDriver(linkHub, options);
+        }
+    },
+    EDGE{
+        @Override
+        public WebDriver createDriver() throws MalformedURLException {
+            //System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/drivers/chromedriver");
+
+            EdgeOptions options = new EdgeOptions();
             URL linkHub = new URL("http://localhost:4444/wd/hub");
 
             return new RemoteWebDriver(linkHub, options);
