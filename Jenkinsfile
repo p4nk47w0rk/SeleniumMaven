@@ -1,6 +1,7 @@
 pipeline {
 	agent any
-	stages["verify toolings"] {
+	stages {
+		stage("verify toolings") {
 		steps {
 			sh '''
 				docker info
@@ -12,4 +13,6 @@ pipeline {
 
 		}
 	}
+	}
+
 }
