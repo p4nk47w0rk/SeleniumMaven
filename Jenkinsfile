@@ -2,17 +2,16 @@ pipeline {
 	agent any
 	stages {
 		stage("verify toolings") {
-		steps {
-			sh '''
-				docker info
-				docker compose version
-				curl --version
-				jq --version
-				docker compose up
-			'''
+			steps {
+				sh '''
+					docker info
+					docker version
+					docker compose version
+					curl --version
+					jq --version
+				'''
 
+			}
 		}
 	}
-	}
-
 }
