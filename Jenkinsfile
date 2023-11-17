@@ -13,5 +13,26 @@ pipeline {
 
 			}
 		}
+		stage("Prune Docker data"){
+			steps{
+				sh'docker system prune -a --volumes -f'
+			}
+		}
+		stage("Starting Container"){
+			steps{
+				sh'docker compose up -d --wait'
+				sh'docker compose ps'
+
+			}
+		}
+		//stage("Run tests against the container"){
+
+		//}
+	}
+	post{
+		always{
+			sh'docker compose down --ove-orphans -v'
+			sh'docker compose ps'
+		}
 	}
 }
