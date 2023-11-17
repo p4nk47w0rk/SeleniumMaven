@@ -1,0 +1,26 @@
+[[32mINFO [m] 2023-11-15 10:21:33,940 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: chrome
+[[33mWARN [m] 2023-11-15 10:21:35,299 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - #################################:chrome
+[[32mINFO [m] 2023-11-15 10:21:35,299 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-15 10:21:36,027 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-15 10:21:36,086 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: a
+[[32mINFO [m] 2023-11-15 10:21:36,152 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-15 10:21:36,288 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-15 10:21:38,065 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: A – Wikipedia
+[[32mINFO [m] 2023-11-15 10:21:38,245 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-15 10:21:38,340 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: chrome
+[[33mWARN [m] 2023-11-15 10:21:38,741 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - #################################:chrome
+[[32mINFO [m] 2023-11-15 10:21:38,741 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-15 10:21:39,237 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-15 10:21:39,287 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: b
+[[32mINFO [m] 2023-11-15 10:21:39,344 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-15 10:21:39,453 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-15 10:21:44,132 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: Aktuelle Nachrichten | BILD.de
+[[32mINFO [m] 2023-11-15 10:21:44,310 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-15 10:21:44,398 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: firefox
+[[33mWARN [m] 2023-11-15 10:21:45,833 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - #################################:firefox
+[[32mINFO [m] 2023-11-15 10:21:45,833 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-15 10:21:46,431 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-15 10:21:46,677 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: a
+[[32mINFO [m] 2023-11-15 10:21:46,705 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-15 10:21:46,741 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-15 10:21:47,712 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: A – Wikipedia

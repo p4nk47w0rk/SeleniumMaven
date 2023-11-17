@@ -1,0 +1,12 @@
+[[32mINFO [m] 2023-11-16 15:44:22,940 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: chrome
+[[32mINFO [m] 2023-11-16 15:44:29,781 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: chrome
+[[32mINFO [m] 2023-11-16 15:44:33,334 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: firefox
+[[33mWARN [m] 2023-11-16 15:44:53,854 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - #################################:firefox
+[[32mINFO [m] 2023-11-16 15:44:53,855 GoogleSearchPageStepDefinitions.derBenutzerBefindetSichAuf() - Benutzer befindet sich auf: https://www.google.de
+[[32mINFO [m] 2023-11-16 15:44:59,560 GoogleSearchPageStepDefinitions.derNutzerAkzeptiertDieCookieMeldung() - Nutzer akzeptiert die Cookie-Meldung
+[[32mINFO [m] 2023-11-16 15:45:01,193 GoogleSearchPageStepDefinitions.der_nutzer_tippt_folgenden_suchbegriff_in_die_suchzeile_ein() - Nutzer tippt folgenden Suchbegriff in die Suchzeile ein: a
+[[32mINFO [m] 2023-11-16 15:45:01,442 GoogleSearchPageStepDefinitions.der_nutzer_klickt_auf_suchen() - Nutzer klickt auf suchen
+[[32mINFO [m] 2023-11-16 15:45:01,947 GoogleSearchPageStepDefinitions.derNutzerDasErsteErgebnisDerInDerErgebnislisteWaehlt() - Nutzer wählt das erste Ergebnis aus der Ergebnisliste
+[[32mINFO [m] 2023-11-16 15:45:14,781 GoogleSearchPageStepDefinitions.soll_geprüft_werden_ob_der_title_der_seite_folgender_ist() - Soll geprüft werden ob der Title der Seite folgender ist: A – Wikipedia
+[[32mINFO [m] 2023-11-16 15:45:16,510 GoogleSearchPageStepDefinitions.tearDown() - Browser wird geschlossen
+[[32mINFO [m] 2023-11-16 15:45:19,754 GoogleSearchPageStepDefinitions.derNutzerÖffnetDen() - Nutzer öffnet den Browser: firefox
